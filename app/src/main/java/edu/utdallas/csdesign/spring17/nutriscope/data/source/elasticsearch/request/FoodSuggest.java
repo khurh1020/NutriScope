@@ -1,5 +1,5 @@
 
-package edu.utdallas.csdesign.spring17.nutriscope.data.source.elasticsearch;
+package edu.utdallas.csdesign.spring17.nutriscope.data.source.elasticsearch.request;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

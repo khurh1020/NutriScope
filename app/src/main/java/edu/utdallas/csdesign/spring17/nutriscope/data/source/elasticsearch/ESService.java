@@ -1,5 +1,7 @@
 package edu.utdallas.csdesign.spring17.nutriscope.data.source.elasticsearch;
 
+import edu.utdallas.csdesign.spring17.nutriscope.data.source.elasticsearch.request.SearchRequest;
+import edu.utdallas.csdesign.spring17.nutriscope.data.source.elasticsearch.results.SearchResults;
 import retrofit2.Call;
 import retrofit2.http.Body;
 import retrofit2.http.POST;
